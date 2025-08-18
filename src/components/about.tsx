@@ -31,7 +31,7 @@ export default function AboutPage() {
                 <Image
                   alt="Profile Picture"
                   className="rounded-full mtb-5"
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQHRZV9urWN9cQ/profile-displayphoto-shrink_400_400/B4DZXgFZVZHAAg-/0/1743221266263?e=1751500800&v=beta&t=t67q9MIUErrTz26D3xwU-aMLrsXcUVLFvSFDnq1a6nc"
+                  src="https://media.licdn.com/dms/image/v2/D4D03AQHRZV9urWN9cQ/profile-displayphoto-shrink_800_800/B4DZXgFZVZHAAc-/0/1743221266263?e=1758153600&v=beta&t=dxUI0ef7Oo1Q4LLitCbP01gpAh172pgDJFkgCaeQezw"
                 />
               </div>
             </div>
